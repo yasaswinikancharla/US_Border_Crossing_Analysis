@@ -10,7 +10,7 @@ The primary objective of this project is to build an interactive dashboard analy
 •	By using map visualizations, this dashboard will help the stakeholders to comprehend the geographical distribution of border crossing and help identify the borders and ports that experience high traffic. 
 
 Dataset Overview: 
-•	Source: Border Crossing Entry Data - Catalog (Collected from www.Data.world) 
+•	Source: Border Crossing Entry Data - Catalog (Collected from www.Data.gov) 
 •	Meta Data: 
 Port Name	Records the port where the crossing has occurred.
 State	The state where the port is located.
